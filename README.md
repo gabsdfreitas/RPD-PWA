@@ -8,7 +8,7 @@ Não há instalação necessária! Este é um aplicativo web puro (HTML + CSS).
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/registro-pensamentos-disfuncionais.git
+git clone https://github.com/alteralph/RPD-PWA
 
 Abra o arquivo HTML:
 
