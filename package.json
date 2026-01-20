@@ -1,6 +1,6 @@
 {
   "name": "rpd-sky",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Registro de Pensamentos - TCC App",
   "main": "main.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "dist": "electron-builder",
     "dist:win": "electron-builder --win"
   },
-  "author": "Seu Nome <seuemail@exemplo.com>",
+  "author": "Alteralph <alter@alph.com>",
   "homepage": "https://github.com/seu-usuario/rpd-sky",
   "license": "MIT",
   "devDependencies": {
@@ -18,25 +18,25 @@
   "build": {
     "appId": "com.rpd.sky",
     "productName": "RPD Sky",
-    "copyright": "Copyright © 2024 Seu Nome",
-
+    "copyright": "Copyright © 2026 Alteralph",
     "linux": {
       "target": ["AppImage", "pacman"],
       "icon": "icon.png",
       "category": "Utility",
-      "maintainer": "Seu Nome <seuemail@exemplo.com>",
+      "maintainer": "Alteralph <Alter@alph.com>",
       "synopsis": "App de Registro de Pensamentos"
     },
-
     "win": {
       "target": "nsis",
       "icon": "icon.ico"
     },
-
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true
+    },
+    "pacman": {
+        "category": "Utility"
     }
   }
 }
