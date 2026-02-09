@@ -41,4 +41,12 @@ I built this because I needed a digital place to do my **Dysfunctional Thought R
 3.  **iOS:** Use the Web version (works just like a native app) or sideload the .ipa file found in releases.
 
 ---
-*Built with Flutter 💙*
+*Built with Flutter*
+
+# Screenshots:
+
+<img width="1431" height="899" alt="image" src="https://github.com/user-attachments/assets/df0982f4-0e1f-4e17-ab13-ff6656bb150b" />
+
+![telegram-cloud-photo-size-1-4925177326794902407-y](https://github.com/user-attachments/assets/df282c2a-d9fc-4ce7-871d-6a205883eb81)
+
+
