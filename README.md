@@ -45,8 +45,10 @@ I built this because I needed a digital place to do my **Dysfunctional Thought R
 
 # Screenshots:
 
+## Desktop Version:
 <img width="1431" height="899" alt="image" src="https://github.com/user-attachments/assets/df0982f4-0e1f-4e17-ab13-ff6656bb150b" />
 
+## Mobile Version:
 ![telegram-cloud-photo-size-1-4925177326794902407-y](https://github.com/user-attachments/assets/df282c2a-d9fc-4ce7-871d-6a205883eb81)
 
 
